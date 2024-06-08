@@ -1,3 +1,11 @@
+GRUPO: 
+
+
+        ARIS CANTO - 22052989
+        THIAGO RODRIGO MONTEIRO SALGADO - 21954456
+        JOÃO VICTOR DE CARVALHO MARQUES - 21952894
+
+
 # Planejador de Empilhamento de Blocos em Prolog
 
 O planejador de empilhamento de blocos em Prolog implementado aqui utiliza um algoritmo de planejamento com regressão de metas. O objetivo é gerar um plano de ação que permita empilhar os blocos de acordo com um estado inicial e uma série de metas especificadas.
