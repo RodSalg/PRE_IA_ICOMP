@@ -1,5 +1,9 @@
 # PRE_IA_ICOMP
 
+#OBS:
+
+PARA O TP3 FOI UTILIZADO O GOOGLE COLAB.
+
 Repositório dedicado à matéria de Inteligência Ofertada no ICOMP.
 
 
